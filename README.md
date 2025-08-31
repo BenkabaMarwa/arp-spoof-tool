@@ -1,2 +1,25 @@
-# arp-spoof-tool
-Python script for ARP spoofing using Scapy
+# ARP Spoofer
+
+A simple ARP spoofing tool written in Python for **educational and research purposes only**.  
+This project demonstrates how ARP spoofing works in local networks.
+
+---
+
+## Features
+
+- Sends fake ARP responses to redirect traffic.
+- Demonstrates Man-in-the-Middle (MITM) attack concept.
+- Lightweight and easy to understand.
+
+---
+
+## Requirements
+
+- Python 3.x
+- [Scapy](https://scapy.net/) library
+
+Install dependencies:
+
+```bash
+pip install scapy
+```
