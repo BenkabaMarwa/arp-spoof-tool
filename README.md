@@ -30,22 +30,24 @@ pip install scapy
 ## 🚀 Usage
 
 Clone the repository:
-
+```bash
 git clone https://github.com/BenkabaMarwa/arp-spoof-tool.git
 cd arp-spoof-tool
+```
 
 
 Run the script with sudo/root privileges:
-
+```bash
 sudo python3 src/arpSpoof.py -v <victim_ip> -g <gateway_ip> -i <interface>
-
+```
 Example:
+```bash
 sudo python3 src/arpSpoof.py -v 192.168.1.12 -g 192.168.1.1 -i wlan0
-
+```
 If you already know the victim MAC:
-
+```bash
 sudo python3 src/arpSpoof.py -v 192.168.1.12 -m 11:22:33:44:55:66 -g 192.168.1.1 -i wlan0
-
+```
 Stop: Press Ctrl+C — the script will attempt to restore original ARP entries before exiting.
 
 ---
