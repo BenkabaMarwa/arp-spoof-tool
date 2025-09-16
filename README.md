@@ -60,7 +60,9 @@ Maintains the poisoning by sending ARP packets every few seconds.
 
 On exit, restores the original ARP tables.
 
-📖 Educational Notes
+---
+
+## 📖 Educational Notes
 
 ARP spoofing is used in Man-in-the-Middle attacks.
 
@@ -68,7 +70,9 @@ It allows attackers to intercept, modify, or block traffic.
 
 This script is intended to help students and researchers understand ARP poisoning.
 
-📝 License
+---
+
+## 📝 License
 
 This project is licensed under the MIT License.
 Use responsibly.
@@ -76,3 +80,7 @@ Use responsibly.
 👩‍💻 Author
 
 Developed by Marwa Benkaba ✨
+
+
+
+
