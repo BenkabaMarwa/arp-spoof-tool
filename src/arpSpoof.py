@@ -3,8 +3,8 @@ import time
 import sys
 import signal
 import argparse
-#cd /home/marwa/Desktop/Cyber
-#sudo python3 "arp - Copie.py" -v 192.168.1.12 -g 192.168.1.1 -i wlan0
+#cd /home/kali/Desktop/Cyber
+#sudo python3 "arpSpoof.py" -v 192.168.1.12 -g 192.168.1.1 -i wlan0
 
 
 # Get MAC address of target IP
