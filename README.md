@@ -24,7 +24,7 @@ Do **NOT** use it on networks without proper authorization. Unauthorized use is 
 Install Scapy with:
 ```bash
 pip install scapy
-
+```
 ---
 
 ## 🚀 Usage
