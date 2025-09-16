@@ -5,12 +5,6 @@ This project demonstrates how ARP spoofing works in local networks.
 
 ---
 
-## Features
-
-- Sends fake ARP responses to redirect traffic.
-- Demonstrates Man-in-the-Middle (MITM) attack concept.
-- Lightweight and easy to understand.
-
 ---
 
 ## Requirements
