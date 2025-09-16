@@ -24,3 +24,50 @@ Do **NOT** use it on networks without proper authorization. Unauthorized use is 
 Install Scapy with:
 ```bash
 pip install scapy
+
+🚀 Usage
+
+Clone the repository:
+
+git clone https://github.com/yourusername/arp-spoof-tool.git
+cd arp-spoof-tool
+
+
+Run the script with sudo/root privileges:
+
+sudo python3 arp_spoof.py -v <victim_ip> -g <gateway_ip> -i <interface>
+
+Example:
+sudo python3 arp_spoof.py -v 192.168.1.12 -g 192.168.1.1 -i wlan0
+
+
+If you already know the victim MAC:
+
+sudo python3 arp_spoof.py -v 192.168.1.12 -m 11:22:33:44:55:66 -g 192.168.1.1 -i wlan0
+
+🛡️ How It Works
+
+Sends ARP replies to the victim making it think the attacker is the gateway.
+
+Sends ARP replies to the gateway making it think the attacker is the victim.
+
+Maintains the poisoning by sending ARP packets every few seconds.
+
+On exit, restores the original ARP tables.
+
+📖 Educational Notes
+
+ARP spoofing is used in Man-in-the-Middle attacks.
+
+It allows attackers to intercept, modify, or block traffic.
+
+This script is intended to help students and researchers understand ARP poisoning.
+
+📝 License
+
+This project is licensed under the MIT License.
+Use responsibly.
+
+👩‍💻 Author
+
+Developed by Marwa Benkaba ✨
