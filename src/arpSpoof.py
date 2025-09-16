@@ -3,7 +3,6 @@ import time
 import sys
 import signal
 import argparse
-#cd /home/kali/Desktop/Cyber
 
 # Get MAC address of target IP
 def get_mac(ip, iface):
