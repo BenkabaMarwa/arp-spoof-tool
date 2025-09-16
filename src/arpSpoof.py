@@ -4,8 +4,6 @@ import sys
 import signal
 import argparse
 #cd /home/kali/Desktop/Cyber
-#sudo python3 "arpSpoof.py" -v 192.168.1.12 -g 192.168.1.1 -i wlan0
-
 
 # Get MAC address of target IP
 def get_mac(ip, iface):
