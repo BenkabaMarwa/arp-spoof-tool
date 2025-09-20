@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="screenshot/MobiStock.png" alt="MobiStock" width="500"/>
+  <img src="pics/arp-spoofing.webp" alt="The-ARP-spoofing-attacks-technique" width="500"/>
 </p>
+
+---
 
 # 🔥 ARP Spoofing Tool (Educational Purpose Only)
 
