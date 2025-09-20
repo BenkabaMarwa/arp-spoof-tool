@@ -57,6 +57,10 @@ sudo python3 src/arpSpoof.py -v 192.168.1.12 -m 11:22:33:44:55:66 -g 192.168.1.1
 ```
 Stop: Press Ctrl+C — the script will attempt to restore original ARP entries before exiting.
 
+## 🔑 ARP Spoofing Attack
+
+![ARP Spoofing Attack](pics/ArpSpoof.png)
+
 ---
 
 ## 🛡️ How It Works
