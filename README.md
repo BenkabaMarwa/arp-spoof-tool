@@ -1,10 +1,11 @@
+
+# 🔥 ARP Spoofing Tool (Educational Purpose Only)
+
 <p align="center">
   <img src="pics/arp-spoofing.webp" alt="The-ARP-spoofing-attacks-technique" width="500"/>
 </p>
 
 ---
-
-# 🔥 ARP Spoofing Tool (Educational Purpose Only)
 
 This project is a simple **ARP spoofing / ARP poisoning tool** written in Python using **Scapy**.  
 It demonstrates how attackers can manipulate the ARP table of a victim and gateway to perform **Man-in-the-Middle (MITM)** attacks.
