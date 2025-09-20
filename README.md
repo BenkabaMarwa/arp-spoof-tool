@@ -60,7 +60,7 @@ Stop: Press Ctrl+C — the script will attempt to restore original ARP entries b
 ### ARP Spoofing Attack
 
 <p align="center">
-  <img src="pics/ArpSpoof.png" alt="ARP Spoofing Attack" width="500"/>
+  <img src="pics/ArpSpoof.png" alt="ARP Spoofing Attack" width="600"/>
 </p>
 
 ---
