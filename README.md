@@ -95,3 +95,4 @@ Use responsibly.
 👩‍💻 Author
 
 Developed by Marwa Benkaba ✨
+  [GitHub Profile](https://github.com/BenkabaMarwa)
