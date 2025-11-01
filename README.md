@@ -92,7 +92,9 @@ This script is intended to help students and researchers understand ARP poisonin
 This project is licensed under the MIT License.
 Use responsibly.
 
-👩‍💻 Author
+---
+
+## 👩‍💻 Author
 
 Developed by Marwa Benkaba ✨
   [GitHub Profile](https://github.com/BenkabaMarwa)
